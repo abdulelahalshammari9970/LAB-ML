@@ -62,6 +62,4 @@ It includes the following stages:
 5. **Model evaluation**  
 6. **Final model**
 
-![Methodology Diagram](methodology_diagram.png)
-
 ---
