@@ -1,4 +1,4 @@
-**Lab 1  Getting started with git and githup**
+## Lab 1  Getting started with git and githup
 In this lab, I learned how to upload a local project to GitHub using Git and GitHub Desktop. 
 
 The process included:
