@@ -23,15 +23,15 @@ This dataset is used to demonstrate common data cleaning and preprocessing techn
 
 ## Analysis Steps
 
-Data Loading and Initial Inspection
-Data Quality Assessment
-Handling Missing Values
-Median Imputation
-Outlier Detection using IQR
-Data Normalization (Min-Max Scaling)
-Data Standardization (Z-Score)
-Principal Component Analysis (PCA)
-PCA Visualization
+1- Data Loading and Initial Inspection
+2- Data Quality Assessment
+3- Handling Missing Values
+4- Median Imputation
+5- Outlier Detection using IQR
+6- Data Normalization (Min-Max Scaling)
+7- Data Standardization (Z-Score)
+8- Principal Component Analysis (PCA)
+9- PCA Visualization
 
 ---
 
