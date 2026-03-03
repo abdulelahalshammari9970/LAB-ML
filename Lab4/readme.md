@@ -1,4 +1,4 @@
-## Lab4 Overview
+# Lab4 Overview
 
 This lab focuses on Data Quality Assessment and Data Preprocessing using the Chocolate Sales dataset.
 The main objective is to identify data quality issues, clean the dataset, and apply preprocessing techniques that prepare the data for machine learning models.
@@ -6,7 +6,7 @@ Data preprocessing is an essential step in the machine learning pipeline because
 
 ---
 
-## Dataset Description
+# Dataset Description
 
 The dataset used in this lab is Chocolate Sales Dataset.
 It contains sales transaction information including:
@@ -21,7 +21,7 @@ This dataset is used to demonstrate common data cleaning and preprocessing techn
 
 ---
 
-## Analysis Steps
+# Analysis Steps
 
 1- Data Loading and Initial Inspection
 2- Data Quality Assessment
@@ -57,7 +57,8 @@ Numerical features were scaled using **Min-Max Normalization**, which rescales v
 ## Dimensionality Reduction
 
 **Principal Component Analysis (PCA)** was applied to reduce the dimensionality of the dataset and visualize the data in a lower-dimensional space while preserving most of the variance.
-## Requirements
+
+# Requirements
 
 Python 3.x
 
