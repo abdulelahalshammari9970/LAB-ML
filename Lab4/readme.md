@@ -34,24 +34,29 @@ This dataset is used to demonstrate common data cleaning and preprocessing techn
 9- PCA Visualization
 
 ---
+# Preprocessing Techniques Used
 
-## Preprocessing Techniques Used
+## Missing Value Handling
 
-Missing Value Handling
-
-Missing values were handled using Median Imputation, which replaces missing values with the median of the column. This method is more robust to outliers compared to mean imputation.
-
-Outlier Detection
-Outliers were detected using the Interquartile Range (IQR) method to identify extreme values that may distort analysis.
-
-Data Normalization
-Numerical features were scaled using Min-Max Normalization, which rescales values between 0 and 1.
-
-Dimensionality Reduction
-Principal Component Analysis (PCA) was applied to reduce dimensionality and visualize the dataset in a lower-dimensional space while preserving most of the information.
+Missing values were handled using **Median Imputation**, which replaces missing values with the median of the column. This approach is more robust to outliers compared to mean imputation.
 
 ---
 
+## Outlier Detection
+
+Outliers were detected using the **Interquartile Range (IQR)** method to identify extreme values that may distort the analysis.
+
+---
+
+## Data Normalization
+
+Numerical features were scaled using **Min-Max Normalization**, which rescales values between **0 and 1** to ensure that features are on a comparable scale.
+
+---
+
+## Dimensionality Reduction
+
+**Principal Component Analysis (PCA)** was applied to reduce the dimensionality of the dataset and visualize the data in a lower-dimensional space while preserving most of the variance.
 ## Requirements
 
 Python 3.x
